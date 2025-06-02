@@ -29,5 +29,6 @@ Natural phyiscal interactions pave a new path to achieve multiple robotic functi
 
 *For More Info*
 ======
+![usaki](images/usaki.png "Nobody can reject Usaki.") 
 **This page is under constructing. I will complete this ASAP.*
 If you are interested in my research, please feel free to contact and ask whatever you want to know. Also, if potential opportunity available, send me an e-mail (xuzichenblue@gmail.com).
