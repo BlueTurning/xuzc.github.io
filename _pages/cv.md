@@ -97,8 +97,6 @@ Talks
 *2024 International Conference on Advanced Robotics and Mechatronics (ICARM)
 *Topic: Design and Evaluation of a Multi-functional Magnetic Miniature Van Robot
 
-  
-
 
 Service and leadership
 *Co-reviewer: (Science Advances, Nature Communications, Cell Reports Physical Science, Small, Cyborg and Bionic System)
