@@ -13,7 +13,7 @@ title                    : "Xu Zichen/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Xu Zichen"
 description              : &description "personal description"
-url                      : https://blueturning.github.io/xuzc.github.io/
+url                      : "https://blueturning.github.io/xuzc.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://blueturning.github.io/xuzc.github.io/"
 
