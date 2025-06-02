@@ -19,7 +19,10 @@ Single microrobots with limited volume have trouble in coping with complex tasks
 ## 2. Active Delivery System within Human Body 
 Internal environments within the human body is very complex. How to achieve active cargo delivery without loss is significant for various clinical treatment. We have proposed  a novel design of magnetic hydrogel soft capsule microrobots, which can be physically disintegrated to release microrobot swarms and diverse cargoes with almost no loss (iScience 2023). In the future, we will try to develop various oral robotic pills for personalized treatment.
 ![Res2](images/Res2.png "Active Delivery") 
-## 3. Physical Intelligence Inspired Robotic Designs
+
+## 3. Physical Intelligence Inspired Bubble Robotic Designs
+Natural phyiscal interactions pave a new path to achieve multiple robotic functionalities. Abandoning traditional mechanical designs, hardware integration, or material preparation, natural microscopic phenomena provide valuable references to exploit intrinsic intelligence to accommodate complex environments. Bubbles are promising components for microrobotic designs (Advanced Intelligent Systems 2024, Nano Letters 2024).
+![Res3](images/Res3.png "Bubble Microrobots") 
 
 ## 4. Precise Control of Microrobotic Systems
 
