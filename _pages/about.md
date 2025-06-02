@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ##  To explore the hybrid intelligence of microscopic artifical systems 
-This is **Zichen Xu**, a fourth-year Phd student from the University of Macau, Faculty of Science and Technology, Department of Electromechanical Engineering. My supervisor is Prof. **Qingsong Xu**. 
+This is **Zichen Xu** (1998/11), a fourth-year Phd student from the University of Macau, Faculty of Science and Technology, Department of Electromechanical Engineering. My supervisor is Prof. **Qingsong Xu**. 
 My research focuses on developing microrobot system and platform that are wirelessly actuated and precisely controlled for assignments in constrain space. Physical intelligence inspired multi-scale robot design is also my focus, ranging from microscale to macroscale, such as biorobots, soft robots, microrobots, and so on. My work leverages multi-functional materials, micro physical interactions, advanced control methods, and bionic design factors to create magnetic actuation-based solution for next-generation clinical therapies. My primary interests are in **microrobot control and design**, **robotics and automation**, **soft robotics**, **lab-on-chip**, **medical engineering**, and **intelligent control for biomedical treatments** and **drug delivery**.
 
 *Featured Research*
