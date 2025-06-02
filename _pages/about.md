@@ -13,10 +13,12 @@ My research focuses on developing microrobot system and platform that are wirele
 *Featured Research*
 ======
 ## 1. Microrobot Collectives for Biomedical Applications 
-Single microrobots with limited volume have trouble in coping with complex tasks. Thus inpsired by natural collective behaviors, swarm intelligence is introduced to enhance the functionalities and abilities of single microrobot individuals. I have delved into the robust microrobot collective generation, deployment, and various applications. The advantages of my research is that the proposed collectives can generate the largest output forces for various assignments.(ACS Nano 2022, Cell Reports Phyiscal Science 2023, Science Advances 2025)
+Single microrobots with limited volume have trouble in coping with complex tasks. Thus inpsired by natural collective behaviors, swarm intelligence is introduced to enhance the functionalities and abilities of single microrobot individuals. We have delved into the robust microrobot collective generation, deployment, and various applications. The advantages of my research is that the proposed collectives can generate the largest output forces for various assignments.(ACS Nano 2022, Cell Reports Phyiscal Science 2023, Science Advances 2025)
 ![Res1](images/Res1.png "Microrobot Collectives") 
-## 2. Active Delivery System within Human Body 
 
+## 2. Active Delivery System within Human Body 
+Internal environments within the human body is very complex. How to achieve active cargo delivery without loss is significant for various clinical treatment. We have proposed  a novel design of magnetic hydrogel soft capsule microrobots, which can be physically disintegrated to release microrobot swarms and diverse cargoes with almost no loss (iScience 2023). In the future, we will try to develop various oral robotic pills for personalized treatment.
+![Res2](images/Res2.png "Active Delivery") 
 ## 3. Physical Intelligence Inspired Robotic Designs
 
 ## 4. Precise Control of Microrobotic Systems
