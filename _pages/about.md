@@ -22,5 +22,6 @@ Single microrobots with limited volume have trouble in coping with complex tasks
 ## 4. Precise Control of Microrobotic Systems
 
 
+*For More Info*
+======
 If you are interested in my research, please feel free to contact and ask whatever you want to know. Also, if potential opportunity available, send me an e-mail (xuzichenblue@gmail.com).
-=====
