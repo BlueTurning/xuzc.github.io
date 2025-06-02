@@ -13,7 +13,7 @@ My research focuses on developing microrobot system and platform that are wirele
 *Featured Research*
 ======
 ## 1. Microrobot Collectives for Biomedical Applications 
-Single microrobots with limited volume have trouble in coping with complex tasks. Thus inpsired by natural collective behaviors, swarm intelligence is introduced to enhance the functionalities and abilities of single microrobot individuals. I have delved into the robust microrobot collective generation, deployment, and various applications. The advantages of my research is that the proposed collectives can generate the largest output forces for various assignments. ![Res1](/image/Res1.png "Microrobot Collectives")
+Single microrobots with limited volume have trouble in coping with complex tasks. Thus inpsired by natural collective behaviors, swarm intelligence is introduced to enhance the functionalities and abilities of single microrobot individuals. I have delved into the robust microrobot collective generation, deployment, and various applications. The advantages of my research is that the proposed collectives can generate the largest output forces for various assignments. ![Res1](/images/Res1.png "Microrobot Collectives")
 
 ## 2. Active Delivery System within Human Body 
 
