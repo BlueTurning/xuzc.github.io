@@ -57,53 +57,46 @@ Publications
 
 
 **Conferences**
-*C1. Zichen Xu, Qingsong Xu*, Hon Ho Yu. Nature-Inspired Bubble Magnetic Microrobots for Multimode Locomotion, Cargo delivery, Imaging, and Biosensing, 2024 IEEE International Conference on Robotics and Automation (ICRA CCF-B EI)
 
-*C2. Zichen Xu, Qingsong Xu*, Bioinspired Cilia-Like Microrobot Swarms for Precise Environmental Learning and Modification at Small Scale, IECON 2023 – 49th Annual Conference of the IEEE Industrial Electronics Society (Oral)
+*C1. Zichen Xu, Qingsong Xu, Hon Ho Yu. Nature-Inspired Bubble Magnetic Microrobots for Multimode Locomotion, Cargo delivery, Imaging, and Biosensing, 2024 IEEE International Conference on Robotics and Automation (ICRA CCF-B EI)
 
-*C3. Chen, Yuanhe#, Zichen Xu#, and Qingsong Xu*. Design and Testing of a Novel Multi-Functional Hollow Continuum Magnetic Microrobot, 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO)
+*C2. Zichen Xu, Qingsong Xu, Bioinspired Cilia-Like Microrobot Swarms for Precise Environmental Learning and Modification at Small Scale, IECON 2023 – 49th Annual Conference of the IEEE Industrial Electronics Society (Oral)
 
-*C4. Chen, Yuanhe, Zichen Xu, and Qingsong Xu*. Design and Evaluation of a Multi-functional Magnetic Miniature Van Robot, 2024 IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)
+*C3. Chen, Yuanhe#, Zichen Xu#, and Qingsong Xu. Design and Testing of a Novel Multi-Functional Hollow Continuum Magnetic Microrobot, 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO)
 
-*C5. Yukang Yan, Zichen Xu, Xianli Wang, and Qingsong Xu*. Design of a Multiple Cilia Inspired Active Entanglement Soft Gripper for Adaptable and Stable Grasping, 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE) 
+*C4. Chen, Yuanhe, Zichen Xu, and Qingsong Xu. Design and Evaluation of a Multi-functional Magnetic Miniature Van Robot, 2024 IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)
 
-*C6. Chen, Yuanhe, Zichen Xu, and Qingsong Xu*. Integration of Magnetic Miniature Robots in Microfluidics: Enhancing Functionalities and Applications, 2025 IEEE International Conference on Robotics and Biomimetics (ROBIO) Accepted
+*C5. Yukang Yan, Zichen Xu, Xianli Wang, and Qingsong Xu. Design of a Multiple Cilia Inspired Active Entanglement Soft Gripper for Adaptable and Stable Grasping, 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE) 
 
-*C7*. Zichen Xu, Yuanhe Chen, Qingsong Xu*. Gradient Magnetic Field-Induced Microrobot Collectives With Newton-Level Output Force, 2025 IEEE International Conference on Robotics and Automation (ICRA CCF-B EI) Submitted
+*C6. Chen, Yuanhe, Zichen Xu, and Qingsong Xu. Integration of Magnetic Miniature Robots in Microfluidics: Enhancing Functionalities and Applications, 2025 IEEE International Conference on Robotics and Biomimetics (ROBIO) Accepted
+
+*C7*. Zichen Xu, Yuanhe Chen, Qingsong Xu. Gradient Magnetic Field-Induced Microrobot Collectives With Newton-Level Output Force, 2025 IEEE International Conference on Robotics and Automation (ICRA CCF-B EI) Submitted
 
   
 Talks
 ======
 *School of Electrical Engineering, Southwest Jiaotong University
-
 *Topic: Design and precise control of magnetic microrobots for medical applications 
 
 *College of Intelligent Systems Science and Engineering, Harbin Engineering University
-
 *Topic: Design and Control of Magnetic Microrobots for Biomedical Applications 
 
 *Department of Control Science and Engineering, Harbin Institute of Technology, Shenzhen
-
 *Topic: Swarm Intelligence of Microrobots for Precise Medicine
 
 *IECON 2023 – 49th Annual Conference of the IEEE Industrial Electronics Society
-
 *Topic: Bioinspired Cilia-Like Microrobot Swarms for Precise Environmental Learning and Modification at Small Scale
 
 *2024 National Outstanding Graduate Students Workshop, CUHK, Shenzhen
-
 *Topic: Microrobots inspired by physical intelligence at the microscopic scale 
 
 *Department of Mechanical Engineering, Osaka University 
-
 *Topic: Microscopic intelligence integration and enhancement of microrobots for precise medicine
 
 *Department of Mechanical Engineering, University of Tokyo
-
 *Topic: Collective behaviors of microrobots for precise medicine
 
 *2024 International Conference on Advanced Robotics and Mechatronics (ICARM)
-
 *Topic: Design and Evaluation of a Multi-functional Magnetic Miniature Van Robot
 
 
